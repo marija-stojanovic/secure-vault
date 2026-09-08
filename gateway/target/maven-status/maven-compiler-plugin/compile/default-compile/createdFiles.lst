@@ -1,0 +1,17 @@
+com\securevault\gateway\intrusion\RepeatableBodyRequest$1.class
+com\securevault\gateway\intrusion\IpBlock.class
+com\securevault\gateway\GatewayHealthController.class
+com\securevault\gateway\ratelimit\RateLimitDecision.class
+com\securevault\gateway\ratelimit\RedisRateLimitService.class
+com\securevault\gateway\GatewayApplication.class
+com\securevault\gateway\GatewayCorsConfig.class
+com\securevault\gateway\intrusion\IntrusionProperties.class
+com\securevault\gateway\intrusion\RepeatableBodyRequest.class
+com\securevault\gateway\ratelimit\RateLimitGatewayFilter.class
+com\securevault\gateway\intrusion\IntrusionProtectionService.class
+com\securevault\gateway\ratelimit\RateLimitConfiguration.class
+com\securevault\gateway\ratelimit\RateLimitProperties$Rule.class
+com\securevault\gateway\intrusion\SuspiciousInputFilter.class
+com\securevault\gateway\ratelimit\RateLimitGatewayFilter$RateLimitRule.class
+com\securevault\gateway\ratelimit\RateLimitProperties.class
+com\securevault\gateway\GatewayRoutes.class

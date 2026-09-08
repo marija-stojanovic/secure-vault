@@ -1,0 +1,3 @@
+com\securevault\gateway\GatewayHealthControllerTest.class
+com\securevault\gateway\intrusion\SuspiciousInputFilterTest.class
+com\securevault\gateway\ratelimit\RateLimitGatewayFilterTest.class

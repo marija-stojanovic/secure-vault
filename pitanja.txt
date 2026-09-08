@@ -1,0 +1,39 @@
+da li mi je potrebna master lozinka za korisnike koji su registrovani preko google naloga? 
+
+
+da li admin treba imati tajne?? 
+
+da li je potrebno da imam vise timova, te da je developere moguce smjestiti u razlicite timove i da za svaki tim mogu imati razlicitog TEAM LEAD
+
+ako imamo samo jedan tim da li onda treba biti samo jedan TEAM LEAD i onemoguciti postavljanje vise developera na TEAM LEAD poziciju
+
+
+kada se nalog zamrzne ili deaktivira kada se ponovo pokusaju prijaviti da li treba neko posebno obavjestenje 
+
+rotacija tajni?? 
+uradjeno spisak isteklih tajni  i da se tajne iz tog spiska ne mogu dijeliti
+i preracunavanje rokova postojevic tajni kada admin promijeni politiku
+sta se podrazumijeva pod rotacijom tajne? 
+
+da li treba ista uraditi za neuspjesne pokusaje dkripciije
+
+
+Predloženi redoslijed nakon toga
+1. API Gateway;
+2. Redis rate limiting;
+3. detekcija i blokiranje sumnjivih IP adresa;
+4. honeytoken sistem;
+5. sigurnosna upozorenja administratoru;
+6. ranjivi SQL Injection demo endpoint;
+7. sigurnosna HTTP zaglavlja i dodatno učvršćivanje;
+8. integracioni i sigurnosni testovi;
+9. immutable audit log kao završna faza.
+
+
+da li team lead vidi sve tajne ? 
+
+da li je rotacija dobra? 
+
+ako je tajna istekla 
+1. da li je vise korisnici kojima je podijeljena ne mogu vidjeti? 
+2. ako se rotira da li je opet trebaju vidjeti oni koji su je vidjeli prije nego sto je istekla ili ne 
